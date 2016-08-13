@@ -1,0 +1,19 @@
+{
+  "name": "roman-numeral",
+  "version": "1.0.0",
+  "description": "App that converts numbers to roman numerals",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mallerie/Roman-Numeral-Converter.git"
+  },
+  "author": "Mallerie Shirley <mallerie@gmail.com> (www.mallerieshirley.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mallerie/Roman-Numeral-Converter/issues"
+  },
+  "homepage": "https://github.com/mallerie/Roman-Numeral-Converter#readme"
+}

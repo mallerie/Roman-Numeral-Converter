@@ -1,9 +1,3 @@
-
-
-function numToRoman(number) {
-  // body...
-}
-
 var M = 1000;
 var CM = 900;
 var D = 500;
@@ -17,3 +11,16 @@ var IX = 9;
 var V = 5;
 var IV = 4;
 var I = 1;
+
+var comma = ",";
+
+function numToRoman(number) {
+  return number.toString();
+  }
+
+
+
+function splitDigits(numString, comma){
+
+}
+
