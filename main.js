@@ -16,7 +16,7 @@ function numToRoman(number) {
   var I = "1";
   var stringNum = number.toString();
 
-    return stringNum.split("");
+    return stringNum.split("").reverse();
   }
 
 
