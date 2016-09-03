@@ -14,10 +14,24 @@ function numToRoman(number) {
   var V = "5";
   var IV = "4";
   var I = "1";
-  var stringNum = number.toString();
+  var stringNum = number.toString().split("").reverse();
 
-    return stringNum.split("").reverse();
+    return stringNum;
   }
+
+  
+function showNum() {
+  var regularNum = document.getElementById('number-input').value;
+  var message = "You typed " + regularNum + ".";
+
+  document.getElementById("show-num").innerHTML = message;
+  
+  // return message;
+
+  // document.getElementById('show-num').innerHTML = message;
+}
+
+
 
 
 

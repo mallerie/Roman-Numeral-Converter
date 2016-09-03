@@ -1,0 +1,30 @@
+* {
+  text-align: center;
+}
+
+.app {
+  margin: auto;
+  width: 50%;
+  background: #ccc;
+  height: 50vh;
+  min-height: 200px;
+}
+
+#input-field {
+
+}
+
+#number-input {
+  height: 35px;
+}
+
+h1 {
+
+}
+
+#show-num {
+  font-size: 30px;
+  color: green;
+  height: 35px;
+
+}
